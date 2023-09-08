@@ -1,0 +1,16 @@
+{
+  "name": "cp-m4",
+  "version": "1.0.0",
+  "description": "Checkpoint M4",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jorge Vega",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "sequelize": "^6.31.1",
+    "sqlite3": "^5.1.6"
+  }
+}
